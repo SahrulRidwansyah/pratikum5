@@ -34,11 +34,8 @@ contohny seperti gambar berikut
 
 lalu hasil runninganya seperti gambar dibawah
 
-# flowchart tentang penjelasan program
-
-![gambar](gambarlab5/lex5.png)
-
 ![gambar](gambarlab5/lex4.png)
 
 # flowchart tentang penjelasan program
 
+![gambar](gambarlab5/lex5.png)
