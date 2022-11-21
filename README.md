@@ -38,4 +38,4 @@ lalu hasil runninganya seperti gambar dibawah
 
 # flowchart tentang penjelasan program
 
-![gambar](gambarlab5/lex5.jpeg)
+![gambar](gambarlab5/lex5.png)
