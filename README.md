@@ -36,6 +36,3 @@ lalu hasil runninganya seperti gambar dibawah
 
 ![gambar](gambarlab5/lex4.png)
 
-# flowchart tentang penjelasan program
-
-![gambar](gambarlab5/lex5.png)
